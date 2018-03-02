@@ -54,7 +54,6 @@ namespace DNSimple
 			}
 		}
 
-#if FRAMEWORK
 		/// <summary>
 		/// Execute a manual REST request
 		/// </summary>
@@ -87,7 +86,6 @@ namespace DNSimple
 		{
 			return _client.Execute(request);
 		}
-#endif
 
 	}
 }

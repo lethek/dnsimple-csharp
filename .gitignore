@@ -24,6 +24,7 @@ Thumbs.db
 *.lib
 *.sbr
 .svn*
+.vs/
 obj/
 [Rr]elease*/
 _ReSharper*/
